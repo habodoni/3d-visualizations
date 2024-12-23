@@ -1,0 +1,209 @@
+﻿state1,state2,magnitude,Year
+Alabama,Florida,2,2020
+Alabama,Georgia,2,2020
+Alabama,Mississippi,2,2020
+Alabama,Tennessee,2,2020
+Arizona,California,2,2020
+Arizona,Colorado,2,2020
+Arizona,Nevada,2,2020
+Arizona,New Mexico,2,2020
+Arizona,Utah,2,2020
+Arkansas,Louisiana,2,2020
+Arkansas,Mississippi,2,2020
+Arkansas,Missouri,2,2020
+Arkansas,Oklahoma,2,2020
+Arkansas,Tennessee,2,2020
+Arkansas,Texas,2,2020
+California,Nevada,2,2020
+California,Oregon,2,2020
+Colorado,Kansas,2,2020
+Colorado,Nebraska,3,2020
+Colorado,New Mexico,3,2020
+Colorado,Oklahoma,3,2020
+Colorado,Utah,3,2020
+Colorado,Wyoming,3,2020
+Connecticut,Massachusetts,3,2020
+Connecticut,New York,3,2020
+Connecticut,Rhode Island,3,2020
+Delaware,Maryland,3,2020
+Delaware,New Jersey,3,2020
+Florida,Georgia,3,2020
+Georgia,North Carolina,3,2020
+Georgia,South Carolina,3,2020
+Georgia,Tennessee,1,2020
+Idaho,Montana,1,2020
+Idaho,Nevada,1,2020
+Idaho,Oregon,1,2020
+Idaho,Utah,1,2020
+Idaho,Washington,1,2020
+Idaho,Wyoming,1,2020
+Illinois,Indiana,1,2020
+Illinois,Iowa,1,2020
+Illinois,Kentucky,1,2020
+Illinois,Missouri,1,2020
+Illinois,Wisconsin,1,2020
+Indiana,Kentucky,1,2020
+Indiana,Michigan,1,2020
+Indiana,Ohio,1,2020
+Iowa,Minnesota,1,2020
+Iowa,Missouri,1,2020
+Iowa,Nebraska,1,2020
+Iowa,South Dakota,1,2020
+Iowa,Wisconsin,1,2020
+Kansas,Missouri,1,2020
+Kansas,Nebraska,1,2020
+Kansas,Oklahoma,1,2020
+Kentucky,Missouri,1,2020
+Kentucky,Ohio,1,2020
+Kentucky,Tennessee,1,2020
+Kentucky,West Virginia,1,2020
+Louisiana,Mississippi,1,2020
+Louisiana,Texas,1,2020
+Maine,New Hampshire,1,2020
+Maryland,Pennsylvania,1,2020
+Maryland,Virginia,1,2020
+Maryland,West Virginia,1,2020
+Massachusetts,New Hampshire,1,2020
+Massachusetts,New York,1,2020
+Massachusetts,Rhode Island,1,2020
+Massachusetts,Vermont,1,2020
+Michigan,Ohio,1,2020
+Minnesota,North Dakota,1,2020
+Minnesota,South Dakota,1,2020
+Minnesota,Wisconsin,1,2020
+Mississippi,Tennessee,1,2020
+Missouri,Nebraska,1,2020
+Missouri,Oklahoma,1,2020
+Missouri,Tennessee,1,2020
+Montana,North Dakota,1,2020
+Montana,South Dakota,1,2020
+Montana,Wyoming,1,2020
+Nebraska,South Dakota,1,2020
+Nebraska,Wyoming,1,2020
+Nevada,Oregon,1,2020
+Nevada,Utah,1,2020
+New Hampshire,Vermont,1,2020
+New Jersey,New York,1,2020
+New Jersey,Pennsylvania,1,2020
+New Mexico,Oklahoma,1,2020
+New Mexico,Texas,1,2020
+New Mexico,Utah,1,2020
+New York,Pennsylvania,1,2020
+New York,Vermont,1,2020
+North Carolina,South Carolina,1,2020
+North Carolina,Tennessee,1,2020
+North Carolina,Virginia,1,2020
+North Dakota,South Dakota,1,2020
+Ohio,Pennsylvania,1,2020
+Ohio,West Virginia,1,2020
+Oklahoma,Texas,1,2020
+Oregon,Washington,1,2020
+Pennsylvania,West Virginia,1,2020
+South Dakota,Wyoming,1,2020
+Tennessee,Virginia,1,2020
+Utah,Wyoming,1,2020
+Virginia,West Virginia,1,2020
+Alabama,Florida,3,2021
+Alabama,Georgia,3,2021
+Alabama,Mississippi,3,2021
+Alabama,Tennessee,3,2021
+Arizona,California,3,2021
+Arizona,Colorado,3,2021
+Arizona,Nevada,3,2021
+Arizona,New Mexico,3,2021
+Arizona,Utah,3,2021
+Arkansas,Louisiana,3,2021
+Arkansas,Mississippi,3,2021
+Arkansas,Missouri,3,2021
+Arkansas,Oklahoma,3,2021
+Arkansas,Tennessee,3,2021
+Arkansas,Texas,3,2021
+California,Nevada,3,2021
+California,Oregon,3,2021
+Colorado,Kansas,3,2021
+Colorado,Nebraska,3,2021
+Colorado,New Mexico,3,2021
+Colorado,Oklahoma,3,2021
+Colorado,Utah,3,2021
+Colorado,Wyoming,3,2021
+Connecticut,Massachusetts,1,2021
+Connecticut,New York,1,2021
+Connecticut,Rhode Island,1,2021
+Delaware,Maryland,1,2021
+Delaware,New Jersey,1,2021
+Florida,Georgia,1,2021
+Georgia,North Carolina,1,2021
+Georgia,South Carolina,1,2021
+Georgia,Tennessee,1,2021
+Idaho,Montana,1,2021
+Idaho,Nevada,1,2021
+Idaho,Oregon,1,2021
+Idaho,Utah,1,2021
+Idaho,Washington,1,2021
+Idaho,Wyoming,1,2021
+Illinois,Indiana,1,2021
+Illinois,Iowa,1,2021
+Illinois,Kentucky,1,2021
+Illinois,Missouri,1,2021
+Illinois,Wisconsin,1,2021
+Indiana,Kentucky,1,2021
+Indiana,Michigan,1,2021
+Indiana,Ohio,1,2021
+Iowa,Minnesota,1,2021
+Iowa,Missouri,1,2021
+Iowa,Nebraska,1,2021
+Iowa,South Dakota,1,2021
+Iowa,Wisconsin,1,2021
+Kansas,Missouri,1,2021
+Kansas,Nebraska,1,2021
+Kansas,Oklahoma,1,2021
+Kentucky,Missouri,1,2021
+Kentucky,Ohio,1,2021
+Kentucky,Tennessee,1,2021
+Kentucky,West Virginia,1,2021
+Louisiana,Mississippi,1,2021
+Louisiana,Texas,1,2021
+Maine,New Hampshire,1,2021
+Maryland,Pennsylvania,1,2021
+Maryland,Virginia,1,2021
+Maryland,West Virginia,1,2021
+Massachusetts,New Hampshire,1,2021
+Massachusetts,New York,1,2021
+Massachusetts,Rhode Island,1,2021
+Massachusetts,Vermont,1,2021
+Michigan,Ohio,1,2021
+Minnesota,North Dakota,1,2021
+Minnesota,South Dakota,1,2021
+Minnesota,Wisconsin,1,2021
+Mississippi,Tennessee,1,2021
+Missouri,Nebraska,1,2021
+Missouri,Oklahoma,1,2021
+Missouri,Tennessee,1,2021
+Montana,North Dakota,1,2021
+Montana,South Dakota,1,2021
+Montana,Wyoming,1,2021
+Nebraska,South Dakota,1,2021
+Nebraska,Wyoming,1,2021
+Nevada,Oregon,1,2021
+Nevada,Utah,1,2021
+New Hampshire,Vermont,1,2021
+New Jersey,New York,1,2021
+New Jersey,Pennsylvania,1,2021
+New Mexico,Oklahoma,1,2021
+New Mexico,Texas,1,2021
+New Mexico,Utah,1,2021
+New York,Pennsylvania,1,2021
+New York,Vermont,1,2021
+North Carolina,South Carolina,1,2021
+North Carolina,Tennessee,1,2021
+North Carolina,Virginia,1,2021
+North Dakota,South Dakota,1,2021
+Ohio,Pennsylvania,1,2021
+Ohio,West Virginia,1,2021
+Oklahoma,Texas,1,2021
+Oregon,Washington,1,2021
+Pennsylvania,West Virginia,1,2021
+South Dakota,Wyoming,1,2021
+Tennessee,Virginia,1,2021
+Utah,Wyoming,1,2021
+Virginia,West Virginia,1,2021

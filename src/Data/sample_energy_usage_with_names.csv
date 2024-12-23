@@ -1,0 +1,551 @@
+state_name,STUSPS,time_step,energy_usage
+Alabama,AL,202001,784
+Alaska,AK,202001,659
+Arizona,AZ,202001,729
+Arkansas,AR,202001,292
+California,CA,202001,935
+Colorado,CO,202001,863
+Connecticut,CT,202001,807
+Delaware,DE,202001,459
+Florida,FL,202001,109
+Georgia,GA,202001,823
+Hawaii,HI,202001,377
+Idaho,ID,202001,854
+Illinois,IL,202001,904
+Indiana,IN,202001,699
+Iowa,IA,202001,170
+Kansas,KS,202001,572
+Kentucky,KY,202001,700
+Louisiana,LA,202001,496
+Maine,ME,202001,414
+Maryland,MD,202001,805
+Massachusetts,MA,202001,586
+Michigan,MI,202001,651
+Minnesota,MN,202001,187
+Mississippi,MS,202001,274
+Missouri,MO,202001,700
+Montana,MT,202001,949
+Nebraska,NE,202001,777
+Nevada,NV,202001,637
+New Hampshire,NH,202001,945
+New Jersey,NJ,202001,172
+New Mexico,NM,202001,877
+New York,NY,202001,215
+North Carolina,NC,202001,855
+North Dakota,ND,202001,809
+Ohio,OH,202001,947
+Oklahoma,OK,202001,531
+Oregon,OR,202001,548
+Pennsylvania,PA,202001,950
+Rhode Island,RI,202001,199
+South Carolina,SC,202001,277
+South Dakota,SD,202001,855
+Tennessee,TN,202001,897
+Texas,TX,202001,759
+Utah,UT,202001,247
+Vermont,VT,202001,523
+Virginia,VA,202001,388
+Washington,WA,202001,365
+West Virginia,WV,202001,797
+Wisconsin,WI,202001,739
+Wyoming,WY,202001,644
+Alabama,AL,202002,643
+Alaska,AK,202002,814
+Arizona,AZ,202002,344
+Arkansas,AR,202002,251
+California,CA,202002,775
+Colorado,CO,202002,610
+Connecticut,CT,202002,559
+Delaware,DE,202002,982
+Florida,FL,202002,283
+Georgia,GA,202002,128
+Hawaii,HI,202002,902
+Idaho,ID,202002,228
+Illinois,IL,202002,228
+Indiana,IN,202002,153
+Iowa,IA,202002,650
+Kansas,KS,202002,588
+Kentucky,KY,202002,856
+Louisiana,LA,202002,373
+Maine,ME,202002,435
+Maryland,MD,202002,488
+Massachusetts,MA,202002,717
+Michigan,MI,202002,142
+Minnesota,MN,202002,542
+Mississippi,MS,202002,643
+Missouri,MO,202002,988
+Montana,MT,202002,357
+Nebraska,NE,202002,421
+Nevada,NV,202002,157
+New Hampshire,NH,202002,391
+New Jersey,NJ,202002,970
+New Mexico,NM,202002,219
+New York,NY,202002,879
+North Carolina,NC,202002,530
+North Dakota,ND,202002,182
+Ohio,OH,202002,191
+Oklahoma,OK,202002,996
+Oregon,OR,202002,498
+Pennsylvania,PA,202002,711
+Rhode Island,RI,202002,665
+South Carolina,SC,202002,733
+South Dakota,SD,202002,184
+Tennessee,TN,202002,303
+Texas,TX,202002,424
+Utah,UT,202002,874
+Vermont,VT,202002,147
+Virginia,VA,202002,739
+Washington,WA,202002,231
+West Virginia,WV,202002,968
+Wisconsin,WI,202002,280
+Wyoming,WY,202002,946
+Alabama,AL,202003,243
+Alaska,AK,202003,760
+Arizona,AZ,202003,327
+Arkansas,AR,202003,891
+California,CA,202003,819
+Colorado,CO,202003,473
+Connecticut,CT,202003,953
+Delaware,DE,202003,660
+Florida,FL,202003,405
+Georgia,GA,202003,681
+Hawaii,HI,202003,269
+Idaho,ID,202003,775
+Illinois,IL,202003,548
+Indiana,IN,202003,195
+Iowa,IA,202003,297
+Kansas,KS,202003,706
+Kentucky,KY,202003,356
+Louisiana,LA,202003,981
+Maine,ME,202003,790
+Maryland,MD,202003,392
+Massachusetts,MA,202003,916
+Michigan,MI,202003,961
+Minnesota,MN,202003,487
+Mississippi,MS,202003,710
+Missouri,MO,202003,654
+Montana,MT,202003,468
+Nebraska,NE,202003,301
+Nevada,NV,202003,483
+New Hampshire,NH,202003,612
+New Jersey,NJ,202003,470
+New Mexico,NM,202003,655
+New York,NY,202003,483
+North Carolina,NC,202003,123
+North Dakota,ND,202003,799
+Ohio,OH,202003,230
+Oklahoma,OK,202003,477
+Oregon,OR,202003,198
+Pennsylvania,PA,202003,674
+Rhode Island,RI,202003,834
+South Carolina,SC,202003,223
+South Dakota,SD,202003,694
+Tennessee,TN,202003,839
+Texas,TX,202003,248
+Utah,UT,202003,309
+Vermont,VT,202003,662
+Virginia,VA,202003,511
+Washington,WA,202003,882
+West Virginia,WV,202003,141
+Wisconsin,WI,202003,158
+Wyoming,WY,202003,805
+Alabama,AL,202004,136
+Alaska,AK,202004,878
+Arizona,AZ,202004,186
+Arkansas,AR,202004,143
+California,CA,202004,972
+Colorado,CO,202004,111
+Connecticut,CT,202004,870
+Delaware,DE,202004,407
+Florida,FL,202004,180
+Georgia,GA,202004,132
+Hawaii,HI,202004,282
+Idaho,ID,202004,228
+Illinois,IL,202004,906
+Indiana,IN,202004,375
+Iowa,IA,202004,274
+Kansas,KS,202004,654
+Kentucky,KY,202004,471
+Louisiana,LA,202004,284
+Maine,ME,202004,544
+Maryland,MD,202004,588
+Massachusetts,MA,202004,689
+Michigan,MI,202004,386
+Minnesota,MN,202004,380
+Mississippi,MS,202004,737
+Missouri,MO,202004,870
+Montana,MT,202004,615
+Nebraska,NE,202004,194
+Nevada,NV,202004,326
+New Hampshire,NH,202004,975
+New Jersey,NJ,202004,369
+New Mexico,NM,202004,980
+New York,NY,202004,396
+North Carolina,NC,202004,428
+North Dakota,ND,202004,119
+Ohio,OH,202004,707
+Oklahoma,OK,202004,940
+Oregon,OR,202004,510
+Pennsylvania,PA,202004,550
+Rhode Island,RI,202004,348
+South Carolina,SC,202004,280
+South Dakota,SD,202004,423
+Tennessee,TN,202004,929
+Texas,TX,202004,882
+Utah,UT,202004,964
+Vermont,VT,202004,360
+Virginia,VA,202004,849
+Washington,WA,202004,239
+West Virginia,WV,202004,698
+Wisconsin,WI,202004,561
+Wyoming,WY,202004,989
+Alabama,AL,202005,721
+Alaska,AK,202005,943
+Arizona,AZ,202005,796
+Arkansas,AR,202005,628
+California,CA,202005,252
+Colorado,CO,202005,249
+Connecticut,CT,202005,210
+Delaware,DE,202005,125
+Florida,FL,202005,564
+Georgia,GA,202005,989
+Hawaii,HI,202005,986
+Idaho,ID,202005,217
+Illinois,IL,202005,545
+Indiana,IN,202005,695
+Iowa,IA,202005,773
+Kansas,KS,202005,972
+Kentucky,KY,202005,328
+Louisiana,LA,202005,607
+Maine,ME,202005,863
+Maryland,MD,202005,221
+Massachusetts,MA,202005,426
+Michigan,MI,202005,569
+Minnesota,MN,202005,387
+Mississippi,MS,202005,625
+Missouri,MO,202005,939
+Montana,MT,202005,796
+Nebraska,NE,202005,252
+Nevada,NV,202005,691
+New Hampshire,NH,202005,141
+New Jersey,NJ,202005,374
+New Mexico,NM,202005,652
+New York,NY,202005,538
+North Carolina,NC,202005,307
+North Dakota,ND,202005,879
+Ohio,OH,202005,266
+Oklahoma,OK,202005,211
+Oregon,OR,202005,449
+Pennsylvania,PA,202005,229
+Rhode Island,RI,202005,835
+South Carolina,SC,202005,986
+South Dakota,SD,202005,912
+Tennessee,TN,202005,316
+Texas,TX,202005,481
+Utah,UT,202005,124
+Vermont,VT,202005,167
+Virginia,VA,202005,871
+Washington,WA,202005,334
+West Virginia,WV,202005,816
+Wisconsin,WI,202005,391
+Wyoming,WY,202005,826
+Alabama,AL,202006,801
+Alaska,AK,202006,809
+Arizona,AZ,202006,827
+Arkansas,AR,202006,655
+California,CA,202006,132
+Colorado,CO,202006,111
+Connecticut,CT,202006,716
+Delaware,DE,202006,312
+Florida,FL,202006,238
+Georgia,GA,202006,794
+Hawaii,HI,202006,521
+Idaho,ID,202006,737
+Illinois,IL,202006,768
+Indiana,IN,202006,723
+Iowa,IA,202006,588
+Kansas,KS,202006,870
+Kentucky,KY,202006,639
+Louisiana,LA,202006,317
+Maine,ME,202006,763
+Maryland,MD,202006,921
+Massachusetts,MA,202006,407
+Michigan,MI,202006,274
+Minnesota,MN,202006,248
+Mississippi,MS,202006,641
+Missouri,MO,202006,679
+Montana,MT,202006,647
+Nebraska,NE,202006,907
+Nevada,NV,202006,493
+New Hampshire,NH,202006,173
+New Jersey,NJ,202006,397
+New Mexico,NM,202006,999
+New York,NY,202006,914
+North Carolina,NC,202006,830
+North Dakota,ND,202006,976
+Ohio,OH,202006,871
+Oklahoma,OK,202006,899
+Oregon,OR,202006,877
+Pennsylvania,PA,202006,494
+Rhode Island,RI,202006,639
+South Carolina,SC,202006,529
+South Dakota,SD,202006,299
+Tennessee,TN,202006,523
+Texas,TX,202006,161
+Utah,UT,202006,441
+Vermont,VT,202006,965
+Virginia,VA,202006,144
+Washington,WA,202006,902
+West Virginia,WV,202006,188
+Wisconsin,WI,202006,133
+Wyoming,WY,202006,745
+Alabama,AL,202007,332
+Alaska,AK,202007,867
+Arizona,AZ,202007,136
+Arkansas,AR,202007,868
+California,CA,202007,559
+Colorado,CO,202007,390
+Connecticut,CT,202007,297
+Delaware,DE,202007,994
+Florida,FL,202007,354
+Georgia,GA,202007,180
+Hawaii,HI,202007,546
+Idaho,ID,202007,236
+Illinois,IL,202007,289
+Indiana,IN,202007,229
+Iowa,IA,202007,309
+Kansas,KS,202007,468
+Kentucky,KY,202007,391
+Louisiana,LA,202007,476
+Maine,ME,202007,447
+Maryland,MD,202007,268
+Massachusetts,MA,202007,984
+Michigan,MI,202007,904
+Minnesota,MN,202007,276
+Mississippi,MS,202007,637
+Missouri,MO,202007,423
+Montana,MT,202007,971
+Nebraska,NE,202007,608
+Nevada,NV,202007,903
+New Hampshire,NH,202007,214
+New Jersey,NJ,202007,898
+New Mexico,NM,202007,129
+New York,NY,202007,853
+North Carolina,NC,202007,389
+North Dakota,ND,202007,246
+Ohio,OH,202007,373
+Oklahoma,OK,202007,321
+Oregon,OR,202007,440
+Pennsylvania,PA,202007,609
+Rhode Island,RI,202007,614
+South Carolina,SC,202007,169
+South Dakota,SD,202007,457
+Tennessee,TN,202007,656
+Texas,TX,202007,985
+Utah,UT,202007,865
+Vermont,VT,202007,422
+Virginia,VA,202007,723
+Washington,WA,202007,191
+West Virginia,WV,202007,441
+Wisconsin,WI,202007,523
+Wyoming,WY,202007,651
+Alabama,AL,202008,762
+Alaska,AK,202008,514
+Arizona,AZ,202008,757
+Arkansas,AR,202008,810
+California,CA,202008,374
+Colorado,CO,202008,960
+Connecticut,CT,202008,143
+Delaware,DE,202008,183
+Florida,FL,202008,533
+Georgia,GA,202008,909
+Hawaii,HI,202008,193
+Idaho,ID,202008,274
+Illinois,IL,202008,505
+Indiana,IN,202008,301
+Iowa,IA,202008,957
+Kansas,KS,202008,598
+Kentucky,KY,202008,580
+Louisiana,LA,202008,429
+Maine,ME,202008,640
+Maryland,MD,202008,309
+Massachusetts,MA,202008,717
+Michigan,MI,202008,996
+Minnesota,MN,202008,675
+Mississippi,MS,202008,116
+Missouri,MO,202008,206
+Montana,MT,202008,264
+Nebraska,NE,202008,706
+Nevada,NV,202008,636
+New Hampshire,NH,202008,728
+New Jersey,NJ,202008,291
+New Mexico,NM,202008,295
+New York,NY,202008,407
+North Carolina,NC,202008,236
+North Dakota,ND,202008,959
+Ohio,OH,202008,193
+Oklahoma,OK,202008,991
+Oregon,OR,202008,850
+Pennsylvania,PA,202008,187
+Rhode Island,RI,202008,260
+South Carolina,SC,202008,247
+South Dakota,SD,202008,684
+Tennessee,TN,202008,555
+Texas,TX,202008,187
+Utah,UT,202008,113
+Vermont,VT,202008,414
+Virginia,VA,202008,693
+Washington,WA,202008,220
+West Virginia,WV,202008,984
+Wisconsin,WI,202008,932
+Wyoming,WY,202008,815
+Alabama,AL,202009,832
+Alaska,AK,202009,381
+Arizona,AZ,202009,900
+Arkansas,AR,202009,526
+California,CA,202009,882
+Colorado,CO,202009,570
+Connecticut,CT,202009,384
+Delaware,DE,202009,376
+Florida,FL,202009,424
+Georgia,GA,202009,634
+Hawaii,HI,202009,327
+Idaho,ID,202009,990
+Illinois,IL,202009,695
+Indiana,IN,202009,747
+Iowa,IA,202009,673
+Kansas,KS,202009,753
+Kentucky,KY,202009,617
+Louisiana,LA,202009,356
+Maine,ME,202009,236
+Maryland,MD,202009,307
+Massachusetts,MA,202009,563
+Michigan,MI,202009,239
+Minnesota,MN,202009,104
+Mississippi,MS,202009,523
+Missouri,MO,202009,448
+Montana,MT,202009,382
+Nebraska,NE,202009,686
+Nevada,NV,202009,920
+New Hampshire,NH,202009,533
+New Jersey,NJ,202009,319
+New Mexico,NM,202009,919
+New York,NY,202009,839
+North Carolina,NC,202009,973
+North Dakota,ND,202009,886
+Ohio,OH,202009,473
+Oklahoma,OK,202009,390
+Oregon,OR,202009,663
+Pennsylvania,PA,202009,770
+Rhode Island,RI,202009,537
+South Carolina,SC,202009,926
+South Dakota,SD,202009,923
+Tennessee,TN,202009,608
+Texas,TX,202009,886
+Utah,UT,202009,955
+Vermont,VT,202009,549
+Virginia,VA,202009,426
+Washington,WA,202009,590
+West Virginia,WV,202009,153
+Wisconsin,WI,202009,916
+Wyoming,WY,202009,194
+Alabama,AL,202010,159
+Alaska,AK,202010,436
+Arizona,AZ,202010,766
+Arkansas,AR,202010,736
+California,CA,202010,263
+Colorado,CO,202010,670
+Connecticut,CT,202010,206
+Delaware,DE,202010,301
+Florida,FL,202010,400
+Georgia,GA,202010,881
+Hawaii,HI,202010,989
+Idaho,ID,202010,938
+Illinois,IL,202010,650
+Indiana,IN,202010,779
+Iowa,IA,202010,748
+Kansas,KS,202010,113
+Kentucky,KY,202010,820
+Louisiana,LA,202010,634
+Maine,ME,202010,604
+Maryland,MD,202010,947
+Massachusetts,MA,202010,876
+Michigan,MI,202010,839
+Minnesota,MN,202010,874
+Mississippi,MS,202010,309
+Missouri,MO,202010,555
+Montana,MT,202010,568
+Nebraska,NE,202010,573
+Nevada,NV,202010,672
+New Hampshire,NH,202010,500
+New Jersey,NJ,202010,156
+New Mexico,NM,202010,982
+New York,NY,202010,849
+North Carolina,NC,202010,763
+North Dakota,ND,202010,380
+Ohio,OH,202010,104
+Oklahoma,OK,202010,712
+Oregon,OR,202010,405
+Pennsylvania,PA,202010,443
+Rhode Island,RI,202010,642
+South Carolina,SC,202010,666
+South Dakota,SD,202010,253
+Tennessee,TN,202010,888
+Texas,TX,202010,453
+Utah,UT,202010,457
+Vermont,VT,202010,797
+Virginia,VA,202010,507
+Washington,WA,202010,511
+West Virginia,WV,202010,129
+Wisconsin,WI,202010,471
+Wyoming,WY,202010,921
+Alabama,AL,202011,731
+Alaska,AK,202011,954
+Arizona,AZ,202011,602
+Arkansas,AR,202011,107
+California,CA,202011,717
+Colorado,CO,202011,237
+Connecticut,CT,202011,794
+Delaware,DE,202011,996
+Florida,FL,202011,951
+Georgia,GA,202011,476
+Hawaii,HI,202011,821
+Idaho,ID,202011,248
+Illinois,IL,202011,985
+Indiana,IN,202011,359
+Iowa,IA,202011,226
+Kansas,KS,202011,910
+Kentucky,KY,202011,677
+Louisiana,LA,202011,632
+Maine,ME,202011,904
+Maryland,MD,202011,424
+Massachusetts,MA,202011,212
+Michigan,MI,202011,750
+Minnesota,MN,202011,337
+Mississippi,MS,202011,460
+Missouri,MO,202011,959
+Montana,MT,202011,655
+Nebraska,NE,202011,163
+Nevada,NV,202011,554
+New Hampshire,NH,202011,365
+New Jersey,NJ,202011,544
+New Mexico,NM,202011,703
+New York,NY,202011,723
+North Carolina,NC,202011,519
+North Dakota,ND,202011,439
+Ohio,OH,202011,944
+Oklahoma,OK,202011,374
+Oregon,OR,202011,469
+Pennsylvania,PA,202011,942
+Rhode Island,RI,202011,326
+South Carolina,SC,202011,325
+South Dakota,SD,202011,743
+Tennessee,TN,202011,328
+Texas,TX,202011,926
+Utah,UT,202011,997
+Vermont,VT,202011,469
+Virginia,VA,202011,228
+Washington,WA,202011,907
+West Virginia,WV,202011,124
+Wisconsin,WI,202011,798
+Wyoming,WY,202011,392
